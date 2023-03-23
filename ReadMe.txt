@@ -1,6 +1,8 @@
-В application.properties необходимо указать properties в соответствии с вашей базой данных.
+Скрипт для создания схемы и таблицы scriptSQL_for_create_table.sql
 
-Так же необходимо задать интервал работы сервиса для запросов погоды в scheduler.delay
+В файле application.properties необходимо указать properties в соответствии с вашей базой данных.
+
+Так же необходимо задать интервал работы сервиса для запросов погоды в файле application.properties свойство scheduler.delay
 
 Работает со swagger-ui
 
