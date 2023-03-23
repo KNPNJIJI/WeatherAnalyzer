@@ -1,0 +1,8 @@
+com\stosoft\weatheranalyzer\jsonservice\Condition.class
+com\stosoft\weatheranalyzer\jsonservice\Location.class
+com\stosoft\weatheranalyzer\jsonservice\Root.class
+com\stosoft\weatheranalyzer\service\SchedulerService.class
+com\stosoft\weatheranalyzer\WeatherAnalyzerApplication.class
+com\stosoft\weatheranalyzer\jsonservice\Current.class
+com\stosoft\weatheranalyzer\service\CallWheatherService.class
+com\stosoft\weatheranalyzer\data\WeatherInf.class
